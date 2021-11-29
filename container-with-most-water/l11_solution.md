@@ -1,0 +1,1 @@
+Every time we move the shorter side of the container. Moving the taller side would not improve the total volume since the total volume of the container is bounded by the lower side. If both sides share the same height, we can move either side. This algorithm takes O(n) time.
