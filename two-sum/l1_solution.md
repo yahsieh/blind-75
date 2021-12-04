@@ -1,0 +1,1 @@
+Scan through elements and insert them into a set.
