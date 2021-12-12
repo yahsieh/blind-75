@@ -1,0 +1,1 @@
+Run DFS in the same time for both tree. Return false if we get different value or missing a node in one of it. This takes O(n+m) time, where n is number of nodes and m is number of edges.
